@@ -1,0 +1,23 @@
+{
+  "name": "renuo-cms-client",
+  "filename": "renuo-cms-client.min.js",
+  "description": "Renuo CMS client",
+  "homepage": "https://github.com/renuo/renuo-cms-client",
+  "keywords": [
+    "renuo",
+    "cms",
+    "client"
+  ],
+  "npmName": "renuo-cms-client",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/renuo/renuo-cms-client",
+  "repository": "renuo/renuo-cms-client"
+}
